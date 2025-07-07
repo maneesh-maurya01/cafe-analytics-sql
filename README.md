@@ -200,3 +200,4 @@ SELECT *,
        RANK() OVER (PARTITION BY sale_month ORDER BY total_sales DESC) AS sales_rank
 FROM monthly_product_sales;
 ```
+### Visualization using Excel/Power BI

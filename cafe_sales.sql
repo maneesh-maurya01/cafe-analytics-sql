@@ -1,5 +1,5 @@
 -- Create a Database
--- CREATE DATABASE cafe_db;
+CREATE DATABASE cafe_db;
 
 -- Create a Table
 CREATE TABLE orders(

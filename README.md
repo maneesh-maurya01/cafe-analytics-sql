@@ -1,4 +1,4 @@
-# cafe-sales-analytics-sql
+# cafe-sales-analytics-mysql
 ### Project Overview
 
 This is a database-driven project designed to track and manage all core sales activities within a business. This project emphasizes database design, normalization, and SQL proficiency through real-world scenarios such as generating sales reports, identifying best-selling products, and calculating revenue trends.
